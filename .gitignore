@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+CURSOR_PROJECT_2_BACKTEST.md
+.cursorrules
+CLAUDE.md
+PROGRESS.md
+*.cpython-*.so

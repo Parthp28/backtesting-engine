@@ -1,0 +1,7 @@
+services:
+  backtest:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONPATH=/app

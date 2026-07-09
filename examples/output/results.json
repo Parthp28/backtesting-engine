@@ -1,0 +1,38 @@
+{
+  "Momentum": {
+    "annualized_return": -0.0030180541183797427,
+    "sharpe_ratio": -4.656261641782649,
+    "sortino_ratio": -5.293606470756039,
+    "max_drawdown": -0.09230139946150694,
+    "calmar_ratio": -0.03269781537427698,
+    "hit_rate": 0.3176470588235294,
+    "ic": -0.018484959963499154
+  },
+  "Pairs Trading": {
+    "annualized_return": 0.000871011871721894,
+    "sharpe_ratio": -13.278066198507949,
+    "sortino_ratio": -13.753785945039171,
+    "max_drawdown": -0.008115504840264257,
+    "calmar_ratio": 0.10732688709646955,
+    "hit_rate": 0.23008849557522124,
+    "ic": -0.025647287350836278
+  },
+  "Mean Reversion": {
+    "annualized_return": 0.002919843232856323,
+    "sharpe_ratio": -4.511200207306123,
+    "sortino_ratio": -4.9578916743464445,
+    "max_drawdown": -0.04679387867028423,
+    "calmar_ratio": 0.06239797417585148,
+    "hit_rate": 0.23893805309734514,
+    "ic": -0.03907967037609767
+  },
+  "SPY": {
+    "annualized_return": 0.008117363270133682,
+    "sharpe_ratio": -0.2540831551115779,
+    "sortino_ratio": -0.4214823098492349,
+    "max_drawdown": -0.40520728497627545,
+    "calmar_ratio": 0.02003261928178055,
+    "hit_rate": 0.0,
+    "ic": 0.0
+  }
+}
